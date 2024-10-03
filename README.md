@@ -22,4 +22,4 @@ This project is a cloud-based HR management system designed to streamline employ
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hr-management-system.git
+   git clone [https://github.com/Ajayreddy18/HR-management-Online.git]
